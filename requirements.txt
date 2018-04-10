@@ -1,2 +1,2 @@
 django==1.11.9
-rest_framework
+rest_framework>0
