@@ -1,2 +1,5 @@
 django==1.11.9
-rest_framework>0
+djangorestframework
+django-filter
+django-cors-headers
+
