@@ -1,3 +1,2 @@
 django==1.11.9
-corsheaders
 rest_framework
