@@ -2,4 +2,4 @@ django==1.11.9
 djangorestframework
 django-filter
 django-cors-headers
-
+django_heroku
